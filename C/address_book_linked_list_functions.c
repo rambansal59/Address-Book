@@ -1,10 +1,4 @@
 /********************
- * <copyright information>
- * AUTHOR: Michael (Micky) Mangrobang
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 17 October 2015
- * REVISIONS: 07 June 2018
  * FILE: address_book_linked_list_functions.c
  * DESC: Source file that contains functions for the linked list
  ********************/
