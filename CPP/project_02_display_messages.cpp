@@ -1,10 +1,4 @@
 /********************
- * <copyright information>
- * AUTHOR: Michael Mangrobang
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 21 November 2015
- * REVISIONS: 08 June 2018
  * FILE: project_02_display_messages.cpp
  * DESC: Source file that contains majority of the interface
  ********************/
