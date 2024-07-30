@@ -1,10 +1,4 @@
 /********************
- * <copyright information>
- * AUTHOR: Michael Mangrobang
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE: 21 November 2015
- * REVISIONS: 08 June 2018
  * FILE: address_book.cpp
  * DESC: Source file that contains the address book functions
  ********************/
