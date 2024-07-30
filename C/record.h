@@ -1,9 +1,4 @@
 /********************
- * <copyright information>
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 17 October 2015
- * REVISIONS: 07 June 2018 (Micky)
  * FILE: record.h
  * DESC: Struct Record header file, given by Ravi, edited by me
  ********************/
