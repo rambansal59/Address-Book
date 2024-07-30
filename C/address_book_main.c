@@ -1,10 +1,4 @@
 /********************
- * <copyright information>
- * AUTHOR: Michael (Micky) Mangrobang
- * COURSE: ICS 212 Program Structure
- * INSTRUCTOR: Ravi Narayan
- * DATE CREATED: 17 October 2015
- * REVISIONS: 07 June 2018
  * FILE: address_book_main.c
  * DESC: Main file that contains that runs the program
  ********************/
